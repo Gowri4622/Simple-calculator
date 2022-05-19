@@ -536,5 +536,11 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
+![WhatsApp Image 2022-05-19 at 2 35 57 PM](https://user-images.githubusercontent.com/75235455/169310055-fb183f2d-e58b-4392-9ab5-677457037758.jpeg)
+
+![WhatsApp Image 2022-05-19 at 2 35 57 PM (1)](https://user-images.githubusercontent.com/75235455/169310086-29eca659-d5c3-48c3-927c-fea43bfdad2c.jpeg)
+
+
+
 ## RESULT
 Thus a Simple Android Application develop a program to create simple calculator in Android Studio is developed and executed successfully.
